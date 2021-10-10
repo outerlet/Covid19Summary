@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="COLOR_PRIMARY">#FFBB86FC</color>
+    <color name="COLOR_PRIMARY_VARIANT">#FF6200EE</color>
+    <color name="COLOR_ON_PRIMARY">#FF3700B3</color>
+
+    <color name="COLOR_SECONDARY">#FF03DAC5</color>
+    <color name="COLOR_SECONDARY_VARIANT">#FF018786</color>
+    <color name="COLOR_ON_SECONDARY">#FF000000</color>
+
+    <color name="TITLE_TEXT_COLOR">#FFFFFFFF</color>
+    <color name="SIMPLE_TEXT_COLOR">#FFFFFFFF</color>
+
+</resources>
